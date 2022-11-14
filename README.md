@@ -1,16 +1,22 @@
 ### Hi there 👋
+# A Selection of Some of My Most Important Projects
+The readme.txt has brief introductions and links for my projects.
 
-<!--
-**mukoedo1993/mukoedo1993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 1: web apps based on Nodejs and/or PHP:
+### i: personal website sample: 
+https://stupefied-spence-c25693.netlify.app/
+source code(private repo): https://github.com/mukoedo1993/travel-site-sample
 
-Here are some ideas to get you started:
+### ii: fullstack chat website: 
+shaberu2022.onrender.com/
+source code: https://github.com/mukoedo1993/shaberu
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### iii: wordpress-based website: 
+https://mukoedo.com/
+source code(private repo): https://mukoedo.com/
+
+## 2: machine learning projects:
+### i: A CPP implementation with graphing of DBSCAN algorithm
+source code: https://github.com/mukoedo1993/DBSCAN_algorithm
+
+(to be continued...)
