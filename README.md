@@ -15,7 +15,7 @@ tech stacks: mongodb, noSQL, ejs, webpack...
 
 ### iii: wordpress-based website: 
 https://mukoedo.com/
-source code(private repo): https://github.com/mukoedo/mukoedo
+source code(private repo): https://github.com/mukoedo1993/mukoedo
 tech stacks: PHP, rest API...
 
 ## 2: machine learning projects:
