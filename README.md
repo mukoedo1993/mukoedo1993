@@ -14,7 +14,7 @@ source code: https://github.com/mukoedo1993/shaberu
 tech stacks: mongodb, noSQL, ejs, webpack...
 
 ### iii: wordpress-based website: 
-<del>https://mukoedo.com/</del>
+<del>https://mukoedo.com/</del> <= will expire soon on November, 2022
 source code(private repo): https://github.com/mukoedo1993/mukoedo
 tech stacks: PHP, rest API...
 
