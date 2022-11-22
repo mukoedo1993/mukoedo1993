@@ -6,7 +6,8 @@ The readme.txt has brief introductions and links for my projects.
 ### i: personal website sample: 
 https://stupefied-spence-c25693.netlify.app/
 source code(private repo): https://github.com/mukoedo1993/travel-site-sample
-tech stacks: netlify, webpack...
+https://github.com/mukoedo1993/travel-site-sample-public
+tech stacks: netlify, webpack... octave api, wikipedia's api.
 
 ### ii: fullstack chat website: 
 shaberu2022.onrender.com/
