@@ -28,3 +28,4 @@ source code: https://github.com/mukoedo1993/DBSCAN_algorithm
 https://github.com/mukoedo1993/license_plate_detector/graphs/traffic
 ### ii: A simple painter:
 source code: https://github.com/mukoedo1993/Virtual-Painter/blob/main/src/Project1.cpp
+### iii: My project to predict the directions of stock price.
