@@ -24,8 +24,9 @@ tech stacks: PHP, rest API...
 source code: https://github.com/mukoedo1993/DBSCAN_algorithm
 
 ## Misc.:
-### i: A simple license plate detector:
-https://github.com/mukoedo1993/license_plate_detector/graphs/traffic
-### ii: A simple painter:
-source code: https://github.com/mukoedo1993/Virtual-Painter/blob/main/src/Project1.cpp
-### iii: My project to predict the directions of stock price.
+<ol>
+  <li>: <h4>A simple license plate detector:</h4>
+https://github.com/mukoedo1993/license_plate_detector/graphs/traffic </li>
+  <li>: <h4>A simple painter: </h4>
+source code: https://github.com/mukoedo1993/Virtual-Painter/blob/main/src/Project1.cpp </li>
+</ol>
