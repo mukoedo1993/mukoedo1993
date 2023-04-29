@@ -2,7 +2,12 @@
 # A Selection of Some of My Most Important Projects
 The readme.txt has brief introductions and links for my projects.
 
-## 1: web apps based on Nodejs and/or PHP:
+## 1: Researching Interest
+### i: Intrusion Detection System
+I am now doing research on Intrusion Detection System in the West Virgina
+State University, West Virginia.
+
+## 2: web apps based on Nodejs and/or PHP:
 ### i: personal website sample: 
 https://stupefied-spence-c25693.netlify.app/
 source code(private repo): https://github.com/mukoedo1993/travel-site-sample
@@ -19,7 +24,7 @@ tech stacks: mongodb, noSQL, ejs, webpack...
 source code(private repo): https://github.com/mukoedo1993/mukoedo
 tech stacks: PHP, rest API...
 
-## 2: machine learning projects:
+## 3: machine learning projects:
 ### i: A CPP implementation with graphing of DBSCAN algorithm
 source code: https://github.com/mukoedo1993/DBSCAN_algorithm
 
