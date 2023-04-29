@@ -1,11 +1,11 @@
 ### Hi there 👋
-# A Selection of Some of My Most Important Projects
+# A Selection of Some of My Projects and Researches
 The readme.txt has brief introductions and links for my projects.
 
 ## 1: Researching Interest
 ### i: Intrusion Detection System
 I am now doing research on Intrusion Detection System in the West Virgina
-State University, West Virginia.
+State University, West Virginia. 
 
 ## 2: web apps based on Nodejs and/or PHP:
 ### i: personal website sample: 
