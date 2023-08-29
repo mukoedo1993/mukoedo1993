@@ -19,7 +19,7 @@ shaberu2022.onrender.com/
 source code: https://github.com/mukoedo1993/shaberu
 tech stacks: mongodb, noSQL, ejs, webpack...
 
-### iii: wordpress-based website: 
+### <del>iii: wordpress-based website: </del>
 <del>https://mukoedo.com/</del> <= expired
 tech stacks: PHP, rest API...
 
