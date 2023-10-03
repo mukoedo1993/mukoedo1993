@@ -31,4 +31,7 @@ source code: https://github.com/mukoedo1993/DBSCAN_algorithm
 https://github.com/mukoedo1993/license_plate_detector/graphs/traffic </li>
   <li>: <h4>A simple painter: </h4>
 source code: https://github.com/mukoedo1993/Virtual-Painter/blob/main/src/Project1.cpp </li>
+  <li><h4> A implementation of calculator which allows you to switch between int and float:</h4>
+    source code: https://github.com/mukoedo1993/calculator
+  </li>
 </ol>
