@@ -17,10 +17,6 @@ shaberu2022.onrender.com/
 source code: https://github.com/mukoedo1993/shaberu
 tech stacks: mongodb, noSQL, ejs, webpack...
 
-<h><del>iii: wordpress-based website: </del></h>
-<del>https://mukoedo.com/</del> <= expired
-tech stacks: PHP, rest API...
-
 ## 3: machine learning projects:
 ### i: A CPP implementation with graphing of DBSCAN algorithm
 source code: https://github.com/mukoedo1993/DBSCAN_algorithm
