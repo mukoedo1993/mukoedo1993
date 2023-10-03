@@ -9,7 +9,7 @@ State University, West Virginia. Especially, traditional LSTM and bidirection LS
 
 ## 2: web apps:
 ### i: showcase for a workshop for WVSU: 
-[[https://stupefied-spence-c25693.netlify.app/](https://github.com/mukoedo1993/wvsu-ids)](src code)
+[https://github.com/mukoedo1993/wvsu-ids](src code)
 tec stacks: HTML and CSS
 
 ### ii: fullstack chat website: 
