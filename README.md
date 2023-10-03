@@ -7,12 +7,10 @@ This file, `README.md` has brief introductions and links for my projects.
 I am now doing research on Intrusion Detection System in the West Virgina
 State University, West Virginia. Especially, traditional LSTM and bidirection LSTM.
 
-## 2: web apps based on Nodejs and/or PHP:
-### i: personal website sample: 
-https://stupefied-spence-c25693.netlify.app/
-source code(private repo): https://github.com/mukoedo1993/travel-site-sample
-https://github.com/mukoedo1993/travel-site-sample-public
-tech stacks: netlify, webpack... octave api, wikipedia's api.
+## 2: web apps:
+### i: showcase for a workshop for WVSU: 
+[[https://stupefied-spence-c25693.netlify.app/](https://github.com/mukoedo1993/wvsu-ids)](src code)
+tec stacks: HTML and CSS
 
 ### ii: fullstack chat website: 
 shaberu2022.onrender.com/
