@@ -1,6 +1,6 @@
 ### Hi there 👋
 # A Selection of Some of My Projects and Researches
-This file, `README.md` has brief introductions and links for my projects.
+This file, `README.md` has brief introductions and links for my researches and projects.
 
 ## 1: Researching Interest
 ### i: Intrusion Detection System
