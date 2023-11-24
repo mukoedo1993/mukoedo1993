@@ -16,10 +16,14 @@ tec stacks: HTML and CSS
 shaberu2022.onrender.com/
 source code: https://github.com/mukoedo1993/shaberu
 tech stacks: mongodb, noSQL, ejs, webpack...
+### iii: a simple CRUD of mysql website:
+https://github.com/mukoedo1993/mysql-nodejs-api
 
 ## 3: machine learning projects:
 ### i: A CPP implementation with graphing of DBSCAN algorithm
 source code: https://github.com/mukoedo1993/DBSCAN_algorithm
+
+
 
 ## Misc.:
 <ol>
