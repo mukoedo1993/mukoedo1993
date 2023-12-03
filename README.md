@@ -18,7 +18,12 @@ source code: https://github.com/mukoedo1993/shaberu
 tech stacks: mongodb, noSQL, ejs, webpack...
 ### iii: a simple CRUD of mysql website:
 https://github.com/mukoedo1993/mysql-nodejs-api
-tech stacks: ejs, mySQL, express
+tech stacks: ejs, mySQL, express...
+
+### iv: a simple CRUD of Mongodb's search engine for movies:
+https://github.com/mukoedo1993/search_engine
+tech stacks: ejs, Mongodb, express...
+
 ## 3: machine learning projects:
 ### i: A CPP implementation with graphing of DBSCAN algorithm
 source code: https://github.com/mukoedo1993/DBSCAN_algorithm
