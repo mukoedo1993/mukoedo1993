@@ -40,3 +40,11 @@ source code: https://github.com/mukoedo1993/Virtual-Painter/blob/main/src/Projec
     source code: https://github.com/mukoedo1993/calculator
   </li>
 </ol>
+
+## 4: As a learner and hobbyist:
+<ul>
+  <li>CCNA-related technologies.</li>
+<li>jogging</li>
+  <li>MERN solution</li>
+  <li>Leetcode-oriented programming :)</li>
+</ul>
