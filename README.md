@@ -18,6 +18,7 @@ source code: https://github.com/mukoedo1993/shaberu
 tech stacks: mongodb, noSQL, ejs, webpack...
 ### iii: a simple CRUD of mysql website:
 https://github.com/mukoedo1993/mysql-nodejs-api
+(free mysql host has expired... will try to find a new free one later ... :( ... )
 tech stacks: ejs, mySQL, express...
 
 ### iv: a simple CRUD of Mongodb's search engine for movies:
