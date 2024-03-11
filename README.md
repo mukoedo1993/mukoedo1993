@@ -45,10 +45,8 @@ source code: https://github.com/mukoedo1993/Virtual-Painter/blob/main/src/Projec
 ## 4: As a learner and hobbyist:
 <ul>
   <li>CCNA-related technologies.</li>
-  <li>cisco devnet related topics</li>
 <li>jogging</li>
-  <li>Mongodb-related certification (Mongodb Associate Developer)</li>
-  <li>MERN solution</li>
   <li>Leetcode-oriented programming :)</li>
   <li>Learning Japanese language </li>
+  <li>AI/machine learning</li>
 </ul>
