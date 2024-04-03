@@ -49,4 +49,5 @@ source code: https://github.com/mukoedo1993/Virtual-Painter/blob/main/src/Projec
   <li>Leetcode-oriented programming :)</li>
   <li>Learning Japanese language </li>
   <li>AI/machine learning</li>
+  <li>Web dev</li>
 </ul>
