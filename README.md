@@ -53,4 +53,6 @@ source code: https://github.com/mukoedo1993/Virtual-Painter/blob/main/src/Projec
   <li>Learning Japanese language </li>
   <li>AI/machine learning</li>
   <li>Web dev (esp. WordPress)</li>
+  <li>IOS dev </li>
+ <li> Android dev</li>
 </ul>
