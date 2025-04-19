@@ -4,11 +4,7 @@ This file, `README.md` has brief introductions and links for my researches and p
 
 ## 1: Researching Interest
 ### i: Intrusion Detection System
-I am now doing research on Intrusion Detection System in the West Virgina
-State University, West Virginia. Especially, traditional LSTM and bidirection LSTM.
-
-My paper: 
- Zichun Wang, Samuel Temesgen, Fred Wu*, R1CIDS: A Hybrid Dual Filters Intrusion Detection System, the 22nd International Conference on Security & Management, July 2023,  Las Vegas, USA
+To be updated... Sorry...
 
 ## 2: web apps:
 ### i: showcase for a workshop for WVSU: 
