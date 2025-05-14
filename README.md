@@ -4,7 +4,7 @@ This file, `README.md` has brief introductions and links for my researches and p
 
 ## 1: Researching Interest
 ### i: Intrusion Detection System
-To be updated... Sorry...
+
 ### ii: Point Cloud and MeshCNN-related
 #### Note: See my google scholar profile:
 https://scholar.google.com/citations?user=rr5cwnMAAAAJ&hl=en
