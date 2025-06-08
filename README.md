@@ -31,6 +31,8 @@ tech stacks: ejs, Mongodb, express...
 ### i: A C Plus Plus implementation with graphing of DBSCAN algorithm
 source code: https://github.com/mukoedo1993/DBSCAN_algorithm
 
+### ii: A user case of program of neural mesh simplification.
+source code: https://github.com/mukoedo1993/neural_mesh_simplification_tom
 
 
 ## Misc.:
